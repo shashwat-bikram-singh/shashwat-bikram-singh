@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+SHASHWAT BIKRAM SINGH<br>Phone: 6366289718<br>Email: shashwatbsingh@gmail.com<br><br>Location: Bengaluru, Karnataka<br>GitHub: https://github.com/shashwat-bikram-singh<br><br>LinkedIn: https://www.linkedin.com/in/shashwat-bikram-singh-62364438a<br><br>CAREER OBJECTIVE<br><br>Aspiring Data Scientist with a strong foundation in programming and web development. Passionate about building real-world applications and transitioning into AI-driven and data-centric solutions. Seeking opportunities to learn, grow, and contribute to impactful technology projects.<br><br>EDUCATION<br><br>B.Tech in Computer Science Engineering (CSE - General)<br>Jain (Deemed-to-be University)<br>2025 – 2029 (Undergraduate)<br><br>TECHNICAL SKILLS<br>Programming: Python (Basic), Java (DSA)<br>Web Development: MERN Stack (Learning)<br>Tools: Git, GitHub, Figma<br>Core Skills: Problem Solving, Logical Thinking<br>PROJECTS<br><br>MEDEQUIP – Medical E-commerce Platform<br><br>Developed a React-based frontend for an online medical supply platform<br>Designed product listing pages, navigation system, and scalable UI architecture<br>Focused on responsive design and clean user experience<br>Planned future integration with MERN stack, authentication, and payment systems<br><br>GHUMAU – Travel Recommendation Website<br><br>Built a React-based website providing travel destination suggestions and planning guidance<br>Implemented structured navigation and user-friendly interface<br>Designed responsive layouts for better accessibility<br>Future scope includes backend integration and personalized recommendations<br>ACHIEVEMENTS & ACTIVITIES<br>1st Runner-Up at Hackathon conducted at Dayananda Sagar University (2025)<br>Participated in college events such as Codethon and Cheat Better<br>Actively working on multiple projects with consistent GitHub contributions<br>Engaged in collaborative teamwork during technical events<br>STRENGTHS<br>Fast learner with strong adaptability<br>Problem-solving mindset<br>Self-taught and highly motivated<br>Consistent in learning and building projects<br>ADDITIONAL INFORMATION<br>Strong interest in Artificial Intelligence and Data Science<br>Currently exploring Machine Learning fundamentals<br>Interested in building scalable tech products and startups<br>Actively transitioning from web development to data-driven systems
 
-<!--
-**shashwat-bikram-singh/shashwat-bikram-singh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Shashwat Bikram Singh) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Shashwat Bikram Singh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Shashwat Bikram SIngh) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Shashwat Bikram Singh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shashwatbsingh@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=shashwat-bikram-singh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=shashwat-bikram-singh&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=shashwat-bikram-singh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=shashwat-bikram-singh&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
